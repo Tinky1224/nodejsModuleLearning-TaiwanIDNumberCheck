@@ -1,2 +1,2 @@
 # nodejsModuleLearning-TaiwanIDNumberCheck
-this is a module for Taiwan Identity Number check.
+this is a function for Taiwan Identity Number check.
