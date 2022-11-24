@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-module-learning-taiwan-id-number-check",
+  "version": "1.0.0",
+  "description": "a function for check taiwan id number isvalid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benmumi1224/nodejsModuleLearning-TaiwanIDNumberCheck.git"
+  },
+  "author": "tinky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benmumi1224/nodejsModuleLearning-TaiwanIDNumberCheck/issues"
+  },
+  "homepage": "https://github.com/benmumi1224/nodejsModuleLearning-TaiwanIDNumberCheck#readme"
+}
