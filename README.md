@@ -14,8 +14,9 @@ import sidNoCheck from 'nodejs-module-learning-taiwan-id-number-check'
 
 ## parameters
 * **sidNo**: **string**
-  *  Taiwan ID Number
+  >Taiwan ID Number
 
 ## returns
 * **Boolean**: 
-  *  the sidNo is valid or not.
+  >the sidNo is valid or not.
+
